@@ -32,3 +32,28 @@ body {
     border-radius: 1em;    
 
   }
+
+.EatBurger{
+    font-style: italic; 
+    color: yellow ; 
+    font-family: 'Libre Baskerville', serif;
+    font-size: 5rem;
+} 
+
+.undvor-title{
+    display: inline-block;
+    width: 40%; 
+    font-size: 3rem;
+} 
+
+.burgerName{
+  font-size: 2rem; 
+  width: 5%;
+   margin: 3px; 
+   padding: 3px;   
+
+ }
+
+ #ca{
+   height: 30px;
+ }
